@@ -1,28 +1,29 @@
 # Server Performance Stats
 
 ## Project Description
-A beginner-level Linux Bash Shell Scripting project
-to analyse basic server performance statistics.
+A Bash script to analyze basic Linux server performance statistics.
 
 ## Features
-1. Total CPU usage
-2. Total memory usage (Free vs Used)
-3. Total disk usage (Free vs Used)
-4. Top 5 processes by CPU usage
-5. Top 5 processes by memory usage
+- Total CPU usage
+- Memory usage (Used, Free and Percentage)
+- Disk usage (Used, Free and Percentage)
+- Top 5 processes by CPU usage
+- Top 5 processes by Memory usage
 
-## Technologies Used
-- Ubuntu Linux
-- Bash Shell Scripting
-- AWK
-- Git and GitHub
+## Project Repository
+GitHub: https://github.com/nancyvadaliya/server-performance-stats
 
 ## How to Run
 
-Give execution permission:
-
+```bash
+git clone https://github.com/nancyvadaliya/server-performance-stats.git
+cd server-performance-stats
 chmod +x server-stats.sh
-
-Run the script:
-
 ./server-stats.sh
+```
+
+## Technologies Used
+- Linux
+- Bash Scripting
+- Git
+- GitHub
