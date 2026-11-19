@@ -5,6 +5,9 @@
 
 Project Page: https://github.com/nancyvadaliya/server-performance-stats
 
+## Project Page URL
+
+https://roadmap.sh/projects/server-stats
 
 ## Project Description
 A Bash script to analyze basic Linux server performance statistics.
