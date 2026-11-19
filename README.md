@@ -9,9 +9,10 @@ A Bash script to analyze basic Linux server performance statistics.
 - Disk usage (Used, Free and Percentage)
 - Top 5 processes by CPU usage
 - Top 5 processes by Memory usage
+## Project URL
 
-## Project Repository
-GitHub: https://github.com/nancyvadaliya/server-performance-stats
+Project Page: https://github.com/nancyvadaliya/server-performance-stats
+
 
 ## How to Run
 
