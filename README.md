@@ -1,5 +1,11 @@
 # Server Performance Stats
 
+
+## Project URL
+
+Project Page: https://github.com/nancyvadaliya/server-performance-stats
+
+
 ## Project Description
 A Bash script to analyze basic Linux server performance statistics.
 
@@ -9,9 +15,7 @@ A Bash script to analyze basic Linux server performance statistics.
 - Disk usage (Used, Free and Percentage)
 - Top 5 processes by CPU usage
 - Top 5 processes by Memory usage
-## Project URL
 
-Project Page: https://github.com/nancyvadaliya/server-performance-stats
 
 
 ## How to Run
